@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoParser</string>
+    <string name="hint_text">请输入分享链接！</string>
+    <string name="surrport_platform">支持以下平台：</string>
+    <string name="start_parse">开始解析</string>
+    <string name="parsing">正在解析……</string>
+</resources>
